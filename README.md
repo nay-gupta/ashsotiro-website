@@ -1,5 +1,5 @@
 # Dependencies
-npm install react-bootstrap bootstrap
+`npm install react-bootstrap bootstrap`
 
 
 # Getting Started with Create React App
